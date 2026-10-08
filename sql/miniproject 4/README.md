@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+This is a SQL project using the ClassicModels sample database.
+
 This project analyzes relationships between different tables in the **ClassicModels** database using SQL `JOIN` operations.
 
 The analysis connects customers, payments, employees, offices, orders, order details, and products to understand how the data is related.
